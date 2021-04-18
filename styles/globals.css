@@ -6,11 +6,14 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.navv {
+  border-radius: 0;
 }
-
-* {
-  box-sizing: border-box;
+.font-weight-bold {
+  font-weight: bold;
+  color: brown;
+}
+ol > li {
+  font-size: 18px;
+  line-height: 33px;
 }
